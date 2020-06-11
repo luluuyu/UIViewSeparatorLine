@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - UIViewSeparatorLine (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - UIViewSeparatorLine (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  UIViewSeparatorLine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  UIViewSeparatorLine: f4ba6bbfe0eacc99888e0ae726063d64906c5189
+
+PODFILE CHECKSUM: 83b9e845033ab85d89d1c4d5fb08324883b30dc7
+
+COCOAPODS: 1.9.1

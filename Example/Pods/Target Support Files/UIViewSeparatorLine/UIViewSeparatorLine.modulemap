@@ -1,0 +1,6 @@
+framework module UIViewSeparatorLine {
+  umbrella header "UIViewSeparatorLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
